@@ -1,0 +1,284 @@
+{
+   "pairs":[
+ {
+   "location": "widget",
+   "backendName": "title",
+   "readableName": "Widget Heading Text"
+ },
+ {
+   "location": "widget",
+   "backendName": "subTitle",
+   "readableName": "Widget Body Text"
+ },
+ {
+   "location": "widget",
+   "backendName": "sharecta",
+   "readableName": "Widget Call to Action Text"
+ },
+ {
+   "location": "widget",
+   "backendName": "copied!",
+   "readableName": "copied!"
+ },
+ {
+   "location": "widget",
+   "backendName": "copy",
+   "readableName": "copy"
+ },
+ {
+   "location": "widget",
+   "backendName": "email",
+   "readableName": "email"
+ },
+ {
+   "location": "widget",
+   "backendName": "share",
+   "readableName": "share"
+ },
+ {
+   "location": "widget",
+   "backendName": "tweet",
+   "readableName": "tweet"
+ },
+ {
+   "location": "widget",
+   "backendName": "close",
+   "readableName": "close"
+ },
+ {
+   "location": "widget",
+   "backendName": "referralDiscountStatus",
+   "readableName": "referralDiscountStatus"
+ },
+ {
+   "location": "widget",
+   "backendName": "creditEarned",
+   "readableName": "creditEarned"
+ },
+ {
+   "location": "widget",
+   "backendName": "creditAvailable",
+   "readableName": "creditAvailable"
+ },
+ {
+   "location": "widget",
+   "backendName": "friendsReferred",
+   "readableName": "friendsReferred"
+ },
+ {
+   "location": "widget",
+   "backendName": "referred",
+   "readableName": "referred"
+ },
+ {
+   "location": "widget",
+   "backendName": "trialUser",
+   "readableName": "trialUser"
+ },
+ {
+   "location": "widget",
+   "backendName": "signedUp",
+   "readableName": "signedUp"
+ },
+ {
+   "location": "widget",
+   "backendName": "paidUser",
+   "readableName": "paidUser"
+ },
+ {
+   "location": "widget",
+   "backendName": "trialSignup",
+   "readableName": "trialSignup"
+ },
+ {
+   "location": "widget",
+   "backendName": "discountEarned",
+   "readableName": "discountEarned"
+ },
+ {
+   "location": "widget",
+   "backendName": "discountPending",
+   "readableName": "discountPending"
+ },
+ {
+   "location": "widget",
+   "backendName": "pending",
+   "readableName": "pending"
+ },
+ {
+   "location": "widget",
+   "backendName": "noReferrals",
+   "readableName": "noReferrals"
+ },
+ {
+   "location": "widget",
+   "backendName": "showDetails",
+   "readableName": "showDetails"
+ },
+ {
+   "location": "widget",
+   "backendName": "previous",
+   "readableName": "previous"
+ },
+ {
+   "location": "widget",
+   "backendName": "viewMore",
+   "readableName": "viewMore"
+ },
+ {
+   "location": "widget",
+   "backendName": "hideDetails",
+   "readableName": "hideDetails"
+ },
+ {
+   "location": "widget",
+   "backendName": "referralDetails",
+   "readableName": "referralDetails"
+ },
+ {
+   "location": "widget",
+   "backendName": "referredYou",
+   "readableName": "referredYou"
+ },
+ {
+   "location": "widget",
+   "backendName": "referringUser",
+   "readableName": "referringUser"
+ },
+ {
+   "location": "widget",
+   "backendName": "",
+   "readableName": ""
+ },
+ {
+   "location": "widget",
+   "backendName": "fbTitle",
+   "readableName": "Facebook Subject"
+ },
+ {
+   "location": "widget",
+   "backendName": "fbSummary",
+   "readableName": "Facebook Body"
+ },
+ {
+   "location": "widget",
+   "backendName": "twitterMsg",
+   "readableName": "Twitter Message"
+ },
+ {
+   "location": "widget",
+   "backendName": "emailShareSubject",
+   "readableName": "Email Subject"
+ },
+ {
+   "location": "widget",
+   "backendName": "emailShareBody",
+   "readableName": "Email Body"
+ },
+ {
+   "location": "",
+   "backendName": "",
+   "readableName": ""
+ },
+ {
+   "location": "",
+   "backendName": "",
+   "readableName": ""
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "",
+   "readableName": "Referral Started From Name"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "",
+   "readableName": "Referral Started From Address"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedTitle",
+   "readableName": "Referral Started Subject"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "",
+   "readableName": "Referral Started Header Image URL"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedHeader",
+   "readableName": "Referral Started Header Content"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedBody",
+   "readableName": "Referral Started Body Content"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedShareCTA",
+   "readableName": "Referral Started Share Code CTA"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedButtonHeader",
+   "readableName": "Referral Started Share Button Header"
+ },
+ {
+   "location": "referralStartedEmail",
+   "backendName": "referralStartedFooter",
+   "readableName": "Referral Started Footer"
+ },
+ {
+   "location": "",
+   "backendName": "",
+   "readableName": ""
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "",
+   "readableName": "Referral Complete From Name"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "",
+   "readableName": "Referral Complete From Address"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteTitle",
+   "readableName": "Referral Complete Subject"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "",
+   "readableName": "Referral Complete Header Image URL"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteHeader",
+   "readableName": "Referral Complete Header Content"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteBody",
+   "readableName": "Referral Complete Body Content"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteShareCTA",
+   "readableName": "Referral Complete Share Code CTA"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteButtonHeader",
+   "readableName": "Referral Complete Share Button Header"
+ },
+ {
+   "location": "referralCompleteEmail",
+   "backendName": "referralCompleteFooter",
+   "readableName": "Referral Complete Footer"
+ }
+]
+}
